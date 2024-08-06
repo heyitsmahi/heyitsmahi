@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahima Das</h1>
-<h3 align="center">A passionate web developer trying out the niche of ML and AI</h3>
+<h3 align="center">A passionate Software Developer trying out the niche of Web Development and ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsmahi&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsmahi" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyitsmahi](https://github.com/heyitsmahi)
 
-- 💬 Ask me about **Java,c,python,html,css,js**
+- 💬 Ask me about **Java,Python,HTML,CSS,JS**
 
 - 📫 How to reach me **mahimadas3210@gmail.com**
 
