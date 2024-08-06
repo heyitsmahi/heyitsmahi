@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahima-das-394b45263/](https://www.linkedin.com/in/mahima-das-394b45263/)
 
-- ⚡ Fun fact **Coding is more like a sophisticated hobby that people call engineer's passion by default.**
+- ⚡ Fun fact **Venus is the only planet to spin clockwise.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
