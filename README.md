@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahima-das-394b45263/](https://www.linkedin.com/in/mahima-das-394b45263/)
 
-- ⚡ Fun fact **Venus is the only planet to spin clockwise.**
+- ⚡ Fun fact **Cans of diet soda will float in water but regular soda cans will sink.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
