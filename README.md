@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyitsmahi" alt="heyitsmahi" /></a> </p>
 
-- 🔭 I’m currently working on **Library Management**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **Web Development and ML**
 
