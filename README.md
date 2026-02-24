@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyitsmahi" alt="heyitsmahi" /></a> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **FullStack MERN**
 
 - 🌱 I’m currently learning **Web Development and ML**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyitsmahi](https://github.com/heyitsmahi)
 
-- 💬 Ask me about **Java,Python,HTML,CSS,JS**
+- 💬 Ask me about **Java,Python,HTML,CSS,JS,React,ExpressJs,Mongodb,NodeJs**
 
 - 📫 How to reach me **mahimadas3210@gmail.com**
 
